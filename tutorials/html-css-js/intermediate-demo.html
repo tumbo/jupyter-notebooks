@@ -1,0 +1,127 @@
+<html>
+<head>
+	<title>Jupyter</title>
+	<link rel="stylesheet" type="text/css" href="resources/bootstrap.min.css">
+	<style type="text/css">
+		h1,h2,h3,h4,h5,h6,p {
+			font-family: questrial, sans-serif !important;
+		}
+		#andrew {
+			margin-top: 10px;
+			border: 1px solid #ccc;
+		}
+	</style>
+</head>
+<body>
+	<script type="text/javascript" src="resources/jquery.min.js"></script>
+	<script type="text/javascript" src="resources/bootstrap.min.js"></script>
+	<script type="text/javascript" src="resources/intermediate-app.js"></script>
+	
+
+	<h2>Intermediate Demo</h2>
+	<div id="foo"></div>
+
+	<h2>Bootstrap Responsive Grid</h2>
+	<p>Resize your browser window to see it in action</p>
+	<div class="row">
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	  <div class="col-xs-6 col-sm-4 col-md-3"><img src="resources/images/demo-pie.png"></div>
+	</div>
+
+	<h3>SVG Shapes</h3>
+	<p>Click the orange circle to animate. Data visualizations created in SVG tend to be sharper and clearer than images. Events like clicking, hovering and dragging can be added as well to convey information.</p>
+	<svg width="100%">		
+		<circle id="orange-circle" r="35" cx="50" cy="50" fill="orange" 
+		 style="stroke: black; stroke-width: 1px;"/>
+		<animate 
+	    xlink:href="#orange-circle"
+	    attributeName="cx"	    
+	    from="50"
+	    to="450" 
+	    dur="5s"
+	    begin="click"
+	    fill="freeze" 
+	    d="circ-anim" />
+	</svg>
+
+	<h2>Bootstrap Buttons</h2>
+	<p>These could be integrated into interactive visualizations</p>
+	<br>
+	<!-- Standard button -->
+	<button type="button" class="btn btn-default">Default</button>
+	<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+	<button type="button" class="btn btn-primary">Primary</button>
+	<!-- Indicates a successful or positive action -->
+	<button type="button" class="btn btn-success">Success</button>
+	<!-- Contextual button for informational alert messages -->
+	<button type="button" class="btn btn-info">Info</button>
+	<!-- Indicates caution should be taken with this action -->
+	<button type="button" class="btn btn-warning">Warning</button>
+	<!-- Indicates a dangerous or potentially negative action -->
+	<button type="button" class="btn btn-danger">Danger</button>
+	<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+	<button type="button" class="btn btn-link">Link</button>
+
+	<h2>Tabs</h2>
+	<br>
+	<div id="exTab2" class="container">	
+		<ul class="nav nav-tabs">
+				<li class="active">
+	        <a  href="#1" data-toggle="tab">View 1</a>
+				</li>
+				<li><a href="#2" data-toggle="tab">View 2</a>
+				</li>
+				<li><a href="#3" data-toggle="tab">View 3</a>
+				</li>
+		</ul>
+
+		<div class="tab-content ">
+		  <div class="tab-pane active" id="1">
+	          <p>Content in View 1 here</p>
+	          <img src="resources/images/builder-table.png">
+		  </div>
+		<div class="tab-pane" id="2">
+	    	  <img src="resources/images/builder-bar.png">
+		</div>
+		<div class="tab-pane" id="3">
+	    	<img src="resources/images/builder-area.png">
+		</div>
+		</div>
+	</div>
+	
+	<hr>
+
+	<h3>Here's Some Media</h3>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<h3>Images</h3>
+				<img id="andrew" class="img-responsive" src="resources/images/andrew.jpg">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<h3>Embedded Video</h3>				
+				<!-- 4:3 aspect ratio -->
+				<iframe width="600" height="300" src="https://www.youtube.com/embed/MyP5c_ttdbw" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+		
+	</div>
+
+	
+	
+
+	
+</body>
+</html>
