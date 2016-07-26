@@ -1,0 +1,929 @@
+Year,Country / territory of asylum/residence,Origin,Refugees (incl. refugee-like situations),Asylum-seekers (pending cases),Returned refugees,Internally displaced persons (IDPs),Returned IDPs,Stateless persons,Others of concern,Total Population
+#date+year,#country+residence,#country+origin,#affected+refugees,#affected+asylum,#affected+returned_refugees,#affected+idps,#affected+returned_idps,#affected+stateless,#affected+others,#affected+total
+1951,Turkey,Various/Unknown,2700,,,,,,,2700
+1952,Turkey,Various/Unknown,2000,,,,,,,2000
+1953,Turkey,Various/Unknown,2000,,,,,,,2000
+1954,Turkey,Various/Unknown,2500,,,,,,,2500
+1955,Turkey,Various/Unknown,2200,,,,,,,2200
+1956,Turkey,Various/Unknown,2100,,,,,,,2100
+1957,Turkey,Various/Unknown,2200,,,,,,,2200
+1958,Turkey,Various/Unknown,2150,,,,,,,2150
+1959,Turkey,Various/Unknown,2150,,,,,,,2150
+1960,Turkey,Various/Unknown,2200,,,,,,,2200
+1961,Turkey,Various/Unknown,2300,,,,,,,2300
+1962,Turkey,Various/Unknown,2300,,,,,,,2300
+1963,Turkey,Various/Unknown,2300,,,,,,,2300
+1964,Turkey,Various/Unknown,2300,,,,,,,2300
+1965,Turkey,Various/Unknown,2000,,,,,,,2000
+1966,Turkey,Various/Unknown,1900,,,,,,,1900
+1967,Turkey,Various/Unknown,1850,,,,,,,1850
+1968,Turkey,Various/Unknown,1980,,,,,,,1980
+1969,Turkey,Albania,370,,,,,,,370
+1969,Turkey,Bulgaria,90,,,,,,,90
+1969,Turkey,Hungary,90,,,,,,,90
+1969,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),130,,,,,,,130
+1969,Turkey,Various/Unknown,720,,,,,,,720
+1970,Turkey,Albania,390,,,,,,,390
+1970,Turkey,Bulgaria,320,,,,,,,320
+1970,Turkey,Hungary,90,,,,,,,90
+1970,Turkey,Romania,50,,,,,,,50
+1970,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),150,,,,,,,150
+1970,Turkey,Various/Unknown,170,,,,,,,170
+1971,Turkey,Albania,390,,,,,,,390
+1971,Turkey,Bulgaria,340,,,,,,,340
+1971,Turkey,Hungary,90,,,,,,,90
+1971,Turkey,Romania,60,,,,,,,60
+1971,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),140,,,,,,,140
+1971,Turkey,Various/Unknown,130,,,,,,,130
+1972,Turkey,Albania,390,,,,,,,390
+1972,Turkey,Bulgaria,340,,,,,,,340
+1972,Turkey,Hungary,80,,,,,,,80
+1972,Turkey,Romania,90,,,,,,,90
+1972,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),130,,,,,,,130
+1972,Turkey,Various/Unknown,130,,,,,,,130
+1973,Turkey,Albania,390,,,,,,,390
+1973,Turkey,Bulgaria,340,,,,,,,340
+1973,Turkey,Hungary,80,,,,,,,80
+1973,Turkey,Romania,90,,,,,,,90
+1973,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),130,,,,,,,130
+1973,Turkey,Various/Unknown,130,,,,,,,130
+1974,Turkey,Albania,380,,,,,,,380
+1974,Turkey,Bulgaria,300,,,,,,,300
+1974,Turkey,Hungary,70,,,,,,,70
+1974,Turkey,Romania,70,,,,,,,70
+1974,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),120,,,,,,,120
+1974,Turkey,Various/Unknown,120,,,,,,,120
+1975,Turkey,Albania,380,,,,,,,380
+1975,Turkey,Bulgaria,300,,,,,,,300
+1975,Turkey,Hungary,70,,,,,,,70
+1975,Turkey,Romania,70,,,,,,,70
+1975,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),120,,,,,,,120
+1975,Turkey,Various/Unknown,120,,,,,,,120
+1976,Turkey,Various/Unknown,1060,,,,,,,1060
+1977,Turkey,Various/Unknown,1050,,,,,,,1050
+1978,Turkey,Albania,370,,,,,,,370
+1978,Turkey,Bulgaria,290,,,,,,,290
+1978,Turkey,Hungary,70,,,,,,,70
+1978,Turkey,Romania,60,,,,,,,60
+1978,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),120,,,,,,,120
+1978,Turkey,Various/Unknown,160,,,,,,,160
+1979,Turkey,Various/Unknown,1060,,,,,,,1060
+1980,Turkey,Afghanistan,5000,,,,,,,5000
+1980,Turkey,Various/Unknown,1100,,,,,,,1100
+1981,Turkey,Various/Unknown,1180,,,,,,,1180
+1982,Turkey,Afghanistan,320,,,,,,,320
+1982,Turkey,Various/Unknown,1350,,,,,,,1350
+1983,Turkey,Afghanistan,340,,,,,,,340
+1983,Turkey,Iran (Islamic Rep. of),790,,,,,,,790
+1983,Turkey,Romania,70,,,,,,,70
+1983,Turkey,Various/Unknown,120,,,,,,,120
+1984,Turkey,Iran (Islamic Rep. of),1450,,,,,,,1450
+1984,Turkey,Various/Unknown,1150,,,,,,,1150
+1985,Turkey,Iran (Islamic Rep. of),1450,,,,,,,1450
+1985,Turkey,Iraq,190,,,,,,,190
+1985,Turkey,Various/Unknown,150,,,,,,,150
+1986,Turkey,Various/Unknown,1920,,,,,,,1920
+1987,Turkey,Iran (Islamic Rep. of),1250,,,,,,,1250
+1987,Turkey,Iraq,190,,,,,,,190
+1987,Turkey,Various/Unknown,760,,,,,,,760
+1988,Turkey,Iran (Islamic Rep. of),2510,,,,,,,2510
+1988,Turkey,Iraq,1550,,,,,,,1550
+1988,Turkey,Poland,140,,,,,,,140
+1988,Turkey,Romania,160,,,,,,,160
+1988,Turkey,Various/Unknown,90,,,,,,,90
+1989,Turkey,Iran (Islamic Rep. of),1120,,380,,,,,1500
+1989,Turkey,Iraq,1690,,280,,,,,1970
+1989,Turkey,Poland,50,,,,,,,50
+1989,Turkey,Romania,100,,,,,,,100
+1989,Turkey,Various/Unknown,30107,,,,,,,30107
+1990,Turkey,Albania,70,,,,,,,70
+1990,Turkey,Iran (Islamic Rep. of),830,,170,,,,,1000
+1990,Turkey,Iraq,1400,,110,,,,,1510
+1990,Turkey,Various/Unknown,25700,,50,,,,,25750
+1991,Turkey,Iran (Islamic Rep. of),1363,,,,,,,1363
+1991,Turkey,Iraq,28049,,,,,,,28049
+1991,Turkey,Various/Unknown,1050,,,,,,,1050
+1992,Turkey,Bosnia and Herzegovina,15083,,,,,,,15083
+1992,Turkey,Iran (Islamic Rep. of),1761,,60,,,,,1821
+1992,Turkey,Iraq,11437,,17280,,,,,28717
+1992,Turkey,Various/Unknown,196,,,,,,,196
+1993,Turkey,Bosnia and Herzegovina,16773,,,,,,,16773
+1993,Turkey,Iran (Islamic Rep. of),1386,,,,,,,1386
+1993,Turkey,Iraq,4944,,,,,,,4944
+1993,Turkey,Various/Unknown,164,,,,,,,164
+1994,Turkey,Bosnia and Herzegovina,20000,,,,,,,20000
+1994,Turkey,Iran (Islamic Rep. of),2008,,,,,,,2008
+1994,Turkey,Iraq,2672,,1265,,,,,3937
+1994,Turkey,Various/Unknown,247,,,,,,,247
+1995,Turkey,Afghanistan,1550,,,,,,,1550
+1995,Turkey,Bulgaria,67,,,,,,,67
+1995,Turkey,Bosnia and Herzegovina,5614,,91,,,,,5705
+1995,Turkey,Greece,92,,,,,,,92
+1995,Turkey,Iran (Islamic Rep. of),1942,,,,,,,1942
+1995,Turkey,Iraq,3274,,,,,,,3274
+1995,Turkey,Palestinian,28,,,,,,,28
+1995,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),40,,,,,,,40
+1995,Turkey,Syrian Arab Rep.,43,,,,,,,43
+1995,Turkey,Various/Unknown,191,,,,,,,191
+1996,Turkey,Afghanistan,1448,,,,,,,1448
+1996,Turkey,Bulgaria,60,,,,,,,60
+1996,Turkey,Bosnia and Herzegovina,1770,,1672,,,,,3442
+1996,Turkey,Greece,89,,,,,,,89
+1996,Turkey,Iran (Islamic Rep. of),1437,,,,,,,1437
+1996,Turkey,Iraq,3029,,,,,,,3029
+1996,Turkey,Palestinian,61,,,,,,,61
+1996,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),40,,,,,,,40
+1996,Turkey,Syrian Arab Rep.,33,,,,,,,33
+1996,Turkey,Various/Unknown,199,,,,,,,199
+1997,Turkey,Afghanistan,15,,,,,,,15
+1997,Turkey,Albania,4,,,,,,,4
+1997,Turkey,Bosnia and Herzegovina,887,,772,,,,,1659
+1997,Turkey,Dem. Rep. of the Congo,3,,,,,,,3
+1997,Turkey,Algeria,2,,,,,,,2
+1997,Turkey,Iran (Islamic Rep. of),645,,,,,,,645
+1997,Turkey,Iraq,731,,,,,,,731
+1997,Turkey,Libya,3,,,,,,,3
+1997,Turkey,Palestinian,62,,,,,,,62
+1997,Turkey,Rwanda,1,,,,,,,1
+1997,Turkey,Sudan,5,,,,,,,5
+1997,Turkey,Somalia,25,,,,,,,25
+1997,Turkey,Tunisia,7,,,,,,,7
+1997,Turkey,Uzbekistan,10,,,,,,,10
+1997,Turkey,Various/Unknown,46,,,,,,,46
+1998,Turkey,Afghanistan,21,,,,,,,21
+1998,Turkey,Albania,3,,,,,,,3
+1998,Turkey,Bosnia and Herzegovina,617,,293,,,,,910
+1998,Turkey,China,1,,,,,,,1
+1998,Turkey,Dem. Rep. of the Congo,1,,,,,,,1
+1998,Turkey,Algeria,1,,,,,,,1
+1998,Turkey,Iran (Islamic Rep. of),780,,1,,,,,781
+1998,Turkey,Iraq,954,,,,,,,954
+1998,Turkey,Kazakhstan,,,1107,,,,,1107
+1998,Turkey,Libya,3,,,,,,,3
+1998,Turkey,Palestinian,65,,,,,,,65
+1998,Turkey,Rwanda,1,,,,,,,1
+1998,Turkey,Sudan,4,,,,,,,4
+1998,Turkey,Somalia,17,,,,,,,17
+1998,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),,,2,,,,,2
+1998,Turkey,Uzbekistan,17,,,,,,,17
+1998,Turkey,Various/Unknown,43,,,,,,,43
+1999,Turkey,Afghanistan,26,,,,,,,26
+1999,Turkey,Bosnia and Herzegovina,514,,211,,,,,725
+1999,Turkey,China,1,,,,,,,1
+1999,Turkey,Algeria,6,,,,,,,6
+1999,Turkey,Ethiopia,1,,,,,,,1
+1999,Turkey,Iran (Islamic Rep. of),1151,,4,,,,,1155
+1999,Turkey,Iraq,604,,37,,,,,641
+1999,Turkey,Libya,1,,,,,,,1
+1999,Turkey,Palestinian,58,,2,,,,,60
+1999,Turkey,Rwanda,1,,,,,,,1
+1999,Turkey,Sudan,1,,,,,,,1
+1999,Turkey,Somalia,12,,,,,,,12
+1999,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),384,,18950,,,,,19334
+1999,Turkey,Uzbekistan,12,,,,,,,12
+1999,Turkey,Various/Unknown,43,,,,,,,43
+2000,Turkey,Afghanistan,44,46,6,,,,,96
+2000,Turkey,Bosnia and Herzegovina,634,,142,,,,,776
+2000,Turkey,China,11,10,,,,,,21
+2000,Turkey,Dem. Rep. of the Congo,,2,,,,,,2
+2000,Turkey,Congo,,4,,,,,,4
+2000,Turkey,Algeria,,5,,,,,,5
+2000,Turkey,Egypt,,5,,,,,,5
+2000,Turkey,Eritrea,,1,,,,,,1
+2000,Turkey,Ethiopia,1,6,,,,,,7
+2000,Turkey,Ghana,,1,,,,,,1
+2000,Turkey,Iran (Islamic Rep. of),1357,3133,,,,,,4490
+2000,Turkey,Iraq,642,1936,8,,,,,2586
+2000,Turkey,Jordan,,4,,,,,,4
+2000,Turkey,Lebanon,,1,,,,,,1
+2000,Turkey,Libya,,8,,,,,,8
+2000,Turkey,Sri Lanka,1,1,,,,,,2
+2000,Turkey,Myanmar,1,1,,,,,,2
+2000,Turkey,Nigeria,,4,,,,,,4
+2000,Turkey,Palestinian,60,8,,,,,,68
+2000,Turkey,Rwanda,1,2,,,,,,3
+2000,Turkey,Sudan,1,6,,,,,,7
+2000,Turkey,Sierra Leone,,1,,,,,,1
+2000,Turkey,Somalia,11,4,,,,,,15
+2000,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),286,1,98,,,,,385
+2000,Turkey,Syrian Arab Rep.,1,2,,,,,,3
+2000,Turkey,Tajikistan,,7,,,,,,7
+2000,Turkey,Tunisia,1,,,,,,,1
+2000,Turkey,Uzbekistan,8,10,,,,,,18
+2000,Turkey,Various/Unknown,43,,,,,,,43
+2001,Turkey,Afghanistan,106,307,,,,,,413
+2001,Turkey,Burundi,,2,,,,,,2
+2001,Turkey,Bosnia and Herzegovina,627,,8,,,,,635
+2001,Turkey,China,11,36,,,,,,47
+2001,Turkey,Dem. Rep. of the Congo,,4,,,,,,4
+2001,Turkey,Algeria,,1,,,,,,1
+2001,Turkey,Egypt,6,1,,,,,,7
+2001,Turkey,Ethiopia,1,5,,,,,,6
+2001,Turkey,Iran (Islamic Rep. of),1739,2791,6,,,,,4536
+2001,Turkey,Iraq,585,939,,,,,,1524
+2001,Turkey,Israel,,1,,,,,,1
+2001,Turkey,Jordan,5,,,,,,,5
+2001,Turkey,Kenya,1,24,,,,,,25
+2001,Turkey,Lebanon,1,,,,,,,1
+2001,Turkey,Libya,,4,,,,,,4
+2001,Turkey,Sri Lanka,2,13,,,,,,15
+2001,Turkey,Mauritania,,1,,,,,,1
+2001,Turkey,Nigeria,,5,,,,,,5
+2001,Turkey,Pakistan,,2,,,,,,2
+2001,Turkey,Palestinian,32,10,,,,,,42
+2001,Turkey,Rwanda,4,,,,,,,4
+2001,Turkey,Sudan,1,6,,,,,,7
+2001,Turkey,Sierra Leone,,5,,,,,,5
+2001,Turkey,Somalia,13,4,,,,,,17
+2001,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),275,,19,,,,,294
+2001,Turkey,Syrian Arab Rep.,6,2,,,,,,8
+2001,Turkey,Togo,,1,,,,,,1
+2001,Turkey,Tajikistan,1,,,,,,,1
+2001,Turkey,Tunisia,,4,,,,,,4
+2001,Turkey,United Rep. of Tanzania,,1,,,,,,1
+2001,Turkey,Uzbekistan,13,7,,,,,,20
+2001,Turkey,Various/Unknown,43,,,,,,,43
+2002,Turkey,Afghanistan,103,80,,,,,,183
+2002,Turkey,Bosnia and Herzegovina,574,,201,,,,,775
+2002,Turkey,China,25,28,,,,,,53
+2002,Turkey,Dem. Rep. of the Congo,,9,,,,,,9
+2002,Turkey,Egypt,5,1,,,,,,6
+2002,Turkey,Eritrea,1,6,,,,,,7
+2002,Turkey,Ethiopia,3,5,,,,,,8
+2002,Turkey,Ghana,,1,,,,,,1
+2002,Turkey,Iran (Islamic Rep. of),1818,1808,18,,,,,3644
+2002,Turkey,Iraq,376,583,,,,,,959
+2002,Turkey,Israel,,1,,,,,,1
+2002,Turkey,Jordan,,1,,,,,,1
+2002,Turkey,Kenya,,7,,,,,,7
+2002,Turkey,Kyrgyzstan,,1,,,,,,1
+2002,Turkey,Lebanon,,1,,,,,,1
+2002,Turkey,Libya,,4,,,,,,4
+2002,Turkey,Sri Lanka,3,8,,,,,,11
+2002,Turkey,Myanmar,,1,,,,,,1
+2002,Turkey,Nigeria,,1,,,,,,1
+2002,Turkey,Pakistan,,8,,,,,,8
+2002,Turkey,Palestinian,26,7,,,,,,33
+2002,Turkey,Rwanda,1,,,,,,,1
+2002,Turkey,Sudan,1,2,,,,,,3
+2002,Turkey,Sierra Leone,,1,,,,,,1
+2002,Turkey,Somalia,23,1,,,,,,24
+2002,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),275,,2,,,,,277
+2002,Turkey,Syrian Arab Rep.,6,5,,,,,,11
+2002,Turkey,Togo,,1,,,,,,1
+2002,Turkey,Turkmenistan,,1,,,,,,1
+2002,Turkey,Tunisia,,5,,,,,,5
+2002,Turkey,Uzbekistan,15,13,,,,,,28
+2002,Turkey,Various/Unknown,46,,,,,,,46
+2002,Turkey,Yemen,,1,,,,,,1
+2003,Turkey,Afghanistan,83,44,,,,,,127
+2003,Turkey,Burundi,,3,,,,,,3
+2003,Turkey,Bosnia and Herzegovina,494,,30,,,,,524
+2003,Turkey,China,30,16,,,,,,46
+2003,Turkey,Dem. Rep. of the Congo,,5,,,,,,5
+2003,Turkey,Algeria,,3,,,,,,3
+2003,Turkey,Egypt,1,3,,,,,,4
+2003,Turkey,Eritrea,3,13,,,,,,16
+2003,Turkey,Ethiopia,4,38,,,,,,42
+2003,Turkey,Guinea,,1,,,,,,1
+2003,Turkey,Iran (Islamic Rep. of),1274,2511,50,,,,,3835
+2003,Turkey,Iraq,267,561,103,,,,,931
+2003,Turkey,Jordan,,1,,,,,,1
+2003,Turkey,Kenya,,2,,,,,,2
+2003,Turkey,Kyrgyzstan,,1,,,,,,1
+2003,Turkey,Kuwait,,3,,,,,,3
+2003,Turkey,Libya,,1,,,,,,1
+2003,Turkey,Sri Lanka,1,9,,,,,,10
+2003,Turkey,Morocco,1,6,,,,,,7
+2003,Turkey,Mauritania,,2,,,,,,2
+2003,Turkey,Nigeria,,2,,,,,,2
+2003,Turkey,Oman,,1,,,,,,1
+2003,Turkey,Philippines,2,,,,,,,2
+2003,Turkey,Palestinian,18,5,,,,,,23
+2003,Turkey,Rwanda,1,,,,,,,1
+2003,Turkey,Sudan,7,54,3,,,,,64
+2003,Turkey,Sierra Leone,1,4,,,,,,5
+2003,Turkey,Somalia,29,134,,,,,,163
+2003,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),213,,14,,,,,227
+2003,Turkey,Syrian Arab Rep.,3,5,,,,,,8
+2003,Turkey,Turkmenistan,,1,,,,,,1
+2003,Turkey,Tunisia,,6,,,,,,6
+2003,Turkey,Uzbekistan,15,16,,,,,,31
+2003,Turkey,Various/Unknown,43,,,,,,,43
+2003,Turkey,Yemen,,2,,,,,,2
+2004,Turkey,Afghanistan,64,330,,,,,,394
+2004,Turkey,Angola,,1,,,,,,1
+2004,Turkey,Burundi,,3,,,,,,3
+2004,Turkey,Bosnia and Herzegovina,494,,26,,,,,520
+2004,Turkey,China,26,67,,,,,,93
+2004,Turkey,Dem. Rep. of the Congo,,14,,,,,,14
+2004,Turkey,Algeria,,6,,,,,,6
+2004,Turkey,Egypt,1,3,,,,,,4
+2004,Turkey,Eritrea,1,17,,,,,,18
+2004,Turkey,Western Sahara,,2,,,,,,2
+2004,Turkey,Ethiopia,3,23,,,,,,26
+2004,Turkey,India,,1,,,,,,1
+2004,Turkey,Iran (Islamic Rep. of),1950,1670,7,,,,,3627
+2004,Turkey,Iraq,125,1422,69,,,,,1616
+2004,Turkey,Jordan,,2,,,,,,2
+2004,Turkey,Kyrgyzstan,,6,,,,,,6
+2004,Turkey,Kuwait,,3,,,,,,3
+2004,Turkey,Lebanon,1,1,,,,,,2
+2004,Turkey,Liberia,,5,,,,,,5
+2004,Turkey,Libya,,2,,,,,,2
+2004,Turkey,Sri Lanka,1,5,,,,,,6
+2004,Turkey,Morocco,7,,,,,,,7
+2004,Turkey,Myanmar,,3,,,,,,3
+2004,Turkey,Nigeria,,7,,,,,,7
+2004,Turkey,Oman,,1,,,,,,1
+2004,Turkey,Pakistan,,1,,,,,,1
+2004,Turkey,Palestinian,15,19,,,,,,34
+2004,Turkey,Rwanda,1,,,,,,,1
+2004,Turkey,Sudan,4,39,,,,,,43
+2004,Turkey,Sierra Leone,1,,,,,,,1
+2004,Turkey,Somalia,70,214,,,,,,284
+2004,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),213,,1,,,,,214
+2004,Turkey,Syrian Arab Rep.,,14,,,,,,14
+2004,Turkey,Turkmenistan,1,3,,,,,,4
+2004,Turkey,Tunisia,,9,,,,,,9
+2004,Turkey,Uzbekistan,12,32,,,,,,44
+2004,Turkey,Various/Unknown,43,1,,,,,,44
+2004,Turkey,Yemen,,3,,,,,,3
+2005,Turkey,Afghanistan,76,256,1,,,,,333
+2005,Turkey,Burundi,3,4,,,,,,7
+2005,Turkey,Bosnia and Herzegovina,13,,,,,,,13
+2005,Turkey,Belarus,,1,,,,,,1
+2005,Turkey,China,23,60,,,,,,83
+2005,Turkey,Côte d'Ivoire,,1,,,,,,1
+2005,Turkey,Dem. Rep. of the Congo,2,16,,,,,,18
+2005,Turkey,Congo,,1,,,,,,1
+2005,Turkey,Egypt,3,,,,,,,3
+2005,Turkey,Eritrea,4,16,,,,,,20
+2005,Turkey,Ethiopia,3,31,,,,,,34
+2005,Turkey,India,,1,,,,,,1
+2005,Turkey,Iran (Islamic Rep. of),1959,1685,,,,,,3644
+2005,Turkey,Iraq,126,2160,32,,,,,2318
+2005,Turkey,Jordan,2,,,,,,,2
+2005,Turkey,Kazakhstan,,2,,,,,,2
+2005,Turkey,Kyrgyzstan,4,2,,,,,,6
+2005,Turkey,Kuwait,,3,,,,,,3
+2005,Turkey,Lebanon,,5,,,,,,5
+2005,Turkey,Liberia,,5,,,,,,5
+2005,Turkey,Libya,,5,,,,,,5
+2005,Turkey,Sri Lanka,1,11,,,,,,12
+2005,Turkey,Morocco,7,4,,,,,,11
+2005,Turkey,Mauritania,,13,,,,,,13
+2005,Turkey,Nigeria,,5,,,,,,5
+2005,Turkey,Pakistan,,7,,,,,,7
+2005,Turkey,Philippines,1,,,,,,,1
+2005,Turkey,Palestinian,13,26,,,,,,39
+2005,Turkey,Russian Federation,,,,,,,1400,1400
+2005,Turkey,Rwanda,1,,,,,,,1
+2005,Turkey,Sudan,7,70,,,,,,77
+2005,Turkey,Sierra Leone,1,,,,,,,1
+2005,Turkey,Somalia,66,437,,,,,,503
+2005,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),44,,1,,,,,45
+2005,Turkey,Syrian Arab Rep.,12,7,,,,,,19
+2005,Turkey,Turkmenistan,2,7,,,,,,9
+2005,Turkey,Tunisia,1,8,,,,,,9
+2005,Turkey,Uzbekistan,24,22,,,,,,46
+2005,Turkey,Various/Unknown,,1,,,,,,1
+2005,Turkey,Yemen,1,,,,,,,1
+2006,Turkey,Afghanistan,75,339,10,,,,,424
+2006,Turkey,Azerbaijan,3,1,,,,,,4
+2006,Turkey,Burundi,,5,,,,,,5
+2006,Turkey,Burkina Faso,,1,,,,,,1
+2006,Turkey,Bosnia and Herzegovina,13,,,,,,,13
+2006,Turkey,China,8,70,,,,,,78
+2006,Turkey,Côte d'Ivoire,1,26,,,,,,27
+2006,Turkey,Cameroon,,1,,,,,,1
+2006,Turkey,Dem. Rep. of the Congo,2,36,,,,,,38
+2006,Turkey,Congo,,1,,,,,,1
+2006,Turkey,Algeria,,3,,,,,,3
+2006,Turkey,Egypt,3,,,,,,,3
+2006,Turkey,Eritrea,12,67,,,,,,79
+2006,Turkey,Ethiopia,1,66,,,,,,67
+2006,Turkey,Guinea,1,3,,,,,,4
+2006,Turkey,India,,1,,,,,,1
+2006,Turkey,Iran (Islamic Rep. of),2135,2026,4,,,,,4165
+2006,Turkey,Iraq,141,2515,11,,,,,2667
+2006,Turkey,Jordan,,1,,,,,,1
+2006,Turkey,Kazakhstan,,6,,,,,,6
+2006,Turkey,Kyrgyzstan,,1,,,,,,1
+2006,Turkey,Kuwait,,3,,,,,,3
+2006,Turkey,Lebanon,,3,,,,,,3
+2006,Turkey,Liberia,,14,,,,,,14
+2006,Turkey,Libya,,1,,,,,,1
+2006,Turkey,Sri Lanka,1,64,,,,,,65
+2006,Turkey,Morocco,7,15,,,,,,22
+2006,Turkey,Mauritania,,34,,,,,,34
+2006,Turkey,Nigeria,,6,,,,,,6
+2006,Turkey,Pakistan,,11,,,,,,11
+2006,Turkey,Palestinian,22,57,,,,,,79
+2006,Turkey,Russian Federation,,,,,,,306,306
+2006,Turkey,Rwanda,2,,,,,,,2
+2006,Turkey,Saudi Arabia,,1,,,,,,1
+2006,Turkey,Sudan,13,117,,,,,,130
+2006,Turkey,Sierra Leone,1,3,,,,,,4
+2006,Turkey,Somalia,139,658,,,,,,797
+2006,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),44,,1,,,,,45
+2006,Turkey,Syrian Arab Rep.,2,5,,,,,,7
+2006,Turkey,Turkmenistan,,11,,,,,,11
+2006,Turkey,Tunisia,1,3,,,,,,4
+2006,Turkey,Uganda,1,,,,,,,1
+2006,Turkey,Ukraine,,2,,,,,,2
+2006,Turkey,Uzbekistan,5,40,,,,,,45
+2006,Turkey,Stateless,,1,,,,,,1
+2006,Turkey,Yemen,,1,,,,,,1
+2007,Turkey,Afghanistan,212,701,,,,,,913
+2007,Turkey,Angola,,1,,,,,,1
+2007,Turkey,Azerbaijan,5,0,,,,,,5
+2007,Turkey,Burundi,,4,,,,,,4
+2007,Turkey,Burkina Faso,,2,,,,,,2
+2007,Turkey,Bangladesh,,2,,,,,,2
+2007,Turkey,Bosnia and Herzegovina,13,,1,,,,,14
+2007,Turkey,Central African Rep.,,4,,,,,,4
+2007,Turkey,China,14,56,,,,,,70
+2007,Turkey,Côte d'Ivoire,2,20,,,,,,22
+2007,Turkey,Cameroon,,5,,,,,,5
+2007,Turkey,Dem. Rep. of the Congo,4,91,,,,,,95
+2007,Turkey,Congo,,5,,,,,,5
+2007,Turkey,Algeria,,3,,,,,,3
+2007,Turkey,Ecuador,,1,,,,,,1
+2007,Turkey,Egypt,4,0,,,,,,4
+2007,Turkey,Eritrea,15,53,,,,,,68
+2007,Turkey,Ethiopia,4,70,,,,,,74
+2007,Turkey,Ghana,,1,,,,,,1
+2007,Turkey,Guinea,1,24,,,,,,25
+2007,Turkey,India,,1,,,,,,1
+2007,Turkey,Iran (Islamic Rep. of),2148,1817,,,,,,3965
+2007,Turkey,Iraq,3662,986,,,,,,4648
+2007,Turkey,Kazakhstan,,4,,,,,,4
+2007,Turkey,Kyrgyzstan,,4,,,,,,4
+2007,Turkey,Kuwait,,3,,,,,,3
+2007,Turkey,Lebanon,1,2,,,,,,3
+2007,Turkey,Liberia,2,3,,,,,,5
+2007,Turkey,Sri Lanka,4,62,,,,,,66
+2007,Turkey,Morocco,13,9,,,,,,22
+2007,Turkey,Myanmar,,2,,,,,,2
+2007,Turkey,Mauritania,2,33,,,,,,35
+2007,Turkey,Nigeria,1,11,,,,,,12
+2007,Turkey,Pakistan,,19,,,,,,19
+2007,Turkey,Philippines,1,2,,,,,,3
+2007,Turkey,Palestinian,30,165,,,,,,195
+2007,Turkey,Russian Federation,2,0,,,,,306,308
+2007,Turkey,Rwanda,1,,,,,,,1
+2007,Turkey,Saudi Arabia,,1,,,,,,1
+2007,Turkey,Sudan,29,108,,,,,,137
+2007,Turkey,Senegal,,1,,,,,,1
+2007,Turkey,Sierra Leone,1,4,,,,,,5
+2007,Turkey,Somalia,668,839,,,,,,1507
+2007,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),44,,,,,,,44
+2007,Turkey,Syrian Arab Rep.,5,19,,,,,,24
+2007,Turkey,Turkmenistan,2,11,,,,,,13
+2007,Turkey,Tunisia,2,8,,,,,,10
+2007,Turkey,Ukraine,,2,,,,,,2
+2007,Turkey,Uzbekistan,63,28,,,,,,91
+2007,Turkey,Stateless,,2,,,,,,2
+2007,Turkey,Yemen,1,0,,,,,,1
+2008,Turkey,Afghanistan,347,2816,,,,,,3163
+2008,Turkey,Angola,1,0,,,,,,1
+2008,Turkey,Armenia,,1,,,,,,1
+2008,Turkey,Azerbaijan,2,,,,,,,2
+2008,Turkey,Burundi,,1,,,,,,1
+2008,Turkey,Bangladesh,,1,,,,,,1
+2008,Turkey,Bhutan,,3,,,,,,3
+2008,Turkey,China,10,49,,,,,,59
+2008,Turkey,Côte d'Ivoire,8,6,,,,,,14
+2008,Turkey,Cameroon,,17,,,,,,17
+2008,Turkey,Dem. Rep. of the Congo,11,72,,,,,,83
+2008,Turkey,Congo,,2,,,,,,2
+2008,Turkey,Cuba,,1,,,,,,1
+2008,Turkey,Algeria,,2,,,,,,2
+2008,Turkey,Egypt,1,8,,,,,,9
+2008,Turkey,Eritrea,26,65,,,,,,91
+2008,Turkey,Ethiopia,3,28,,,,,,31
+2008,Turkey,Georgia,,1,,,,,,1
+2008,Turkey,Ghana,,2,,,,,,2
+2008,Turkey,Guinea,5,12,,,,,,17
+2008,Turkey,India,1,0,,,,,,1
+2008,Turkey,Iran (Islamic Rep. of),2105,2312,,,,,,4417
+2008,Turkey,Iraq,7481,811,480,,,,,8772
+2008,Turkey,Jordan,1,2,,,,,,3
+2008,Turkey,Kazakhstan,,2,,,,,,2
+2008,Turkey,Kenya,,3,,,,,,3
+2008,Turkey,Kyrgyzstan,,7,,,,,,7
+2008,Turkey,Kuwait,,3,,,,,,3
+2008,Turkey,Lebanon,1,4,,,,,,5
+2008,Turkey,Liberia,3,3,,,,,,6
+2008,Turkey,Sri Lanka,8,58,,,,,,66
+2008,Turkey,Morocco,10,6,,,,,,16
+2008,Turkey,Mali,,1,,,,,,1
+2008,Turkey,Myanmar,,20,,,,,,20
+2008,Turkey,Mauritania,1,20,,,,,,21
+2008,Turkey,Nigeria,1,6,,,,,,7
+2008,Turkey,Pakistan,,11,,,,,,11
+2008,Turkey,Philippines,1,0,,,,,,1
+2008,Turkey,Palestinian,84,59,,,,,,143
+2008,Turkey,Russian Federation,2,,,,,,306,308
+2008,Turkey,Rwanda,1,,,,,,,1
+2008,Turkey,Saudi Arabia,,1,,,,,,1
+2008,Turkey,Sudan,64,154,,,,,,218
+2008,Turkey,Sierra Leone,1,6,,,,,,7
+2008,Turkey,Somalia,862,459,,,,,,1321
+2008,Turkey,Syrian Arab Rep.,12,21,,,,,,33
+2008,Turkey,Tibetan,,1,,,,,,1
+2008,Turkey,Turkmenistan,3,7,,,,,,10
+2008,Turkey,Tunisia,2,4,,,,,,6
+2008,Turkey,Turkey,,,,,,2734,,2734
+2008,Turkey,Ukraine,2,0,,,,,,2
+2008,Turkey,Uzbekistan,37,38,,,,,,75
+2008,Turkey,Stateless,5,11,,,,,,16
+2008,Turkey,Yemen,1,,,,,,,1
+2009,Turkey,Afghanistan,1040,1896,,,,,,2936
+2009,Turkey,Angola,1,,,,,,,1
+2009,Turkey,Burundi,,2,,,,,,2
+2009,Turkey,Bangladesh,,18,,,,,,18
+2009,Turkey,China,7,52,,,,,,59
+2009,Turkey,Côte d'Ivoire,3,8,,,,,,11
+2009,Turkey,Cameroon,,8,,,,,,8
+2009,Turkey,Dem. Rep. of the Congo,3,37,,,,,,40
+2009,Turkey,Cuba,,1,,,,,,1
+2009,Turkey,Egypt,,8,,,,,,8
+2009,Turkey,Eritrea,41,58,,,,,,99
+2009,Turkey,Ethiopia,12,26,,,,,,38
+2009,Turkey,Gabon,,1,,,,,,1
+2009,Turkey,Georgia,1,0,,,,,,1
+2009,Turkey,Guinea,2,26,,,,,,28
+2009,Turkey,Gambia,,1,,,,,,1
+2009,Turkey,Guinea-Bissau,,1,,,,,,1
+2009,Turkey,India,1,1,,,,,,2
+2009,Turkey,Iran (Islamic Rep. of),1803,2439,,,,,,4242
+2009,Turkey,Iraq,6194,610,350,,,,,7154
+2009,Turkey,Israel,,1,,,,,,1
+2009,Turkey,Jordan,,4,,,,,,4
+2009,Turkey,Kazakhstan,,1,,,,,,1
+2009,Turkey,Kenya,,1,,,,,,1
+2009,Turkey,Kyrgyzstan,,9,,,,,,9
+2009,Turkey,Kuwait,,3,,,,,,3
+2009,Turkey,Lebanon,1,4,,,,,,5
+2009,Turkey,Liberia,2,1,,,,,,3
+2009,Turkey,Sri Lanka,29,34,,,,,,63
+2009,Turkey,Morocco,12,5,,,,,,17
+2009,Turkey,Mali,,2,,,,,,2
+2009,Turkey,Myanmar,1,44,,,,,,45
+2009,Turkey,Mauritania,,12,,,,,,12
+2009,Turkey,Nigeria,4,12,,,,,,16
+2009,Turkey,Pakistan,4,27,,,,,,31
+2009,Turkey,Philippines,1,1,,,,,,2
+2009,Turkey,Palestinian,82,84,,,,,,166
+2009,Turkey,Russian Federation,,5,,,,,306,311
+2009,Turkey,Rwanda,1,,,,,,,1
+2009,Turkey,Saudi Arabia,,1,,,,,,1
+2009,Turkey,Sudan,108,113,,,,,,221
+2009,Turkey,Senegal,,1,,,,,,1
+2009,Turkey,Sierra Leone,1,7,,,,,,8
+2009,Turkey,Somalia,922,263,,,,,,1185
+2009,Turkey,Syrian Arab Rep.,8,56,,,,,,64
+2009,Turkey,Tibetan,,1,,,,,,1
+2009,Turkey,Tajikistan,,22,,,,,,22
+2009,Turkey,Turkmenistan,5,4,,,,,,9
+2009,Turkey,Tunisia,2,5,,,,,,7
+2009,Turkey,Turkey,,,,,,2739,,2739
+2009,Turkey,Ukraine,2,,,,,,,2
+2009,Turkey,Uzbekistan,49,59,7,,,,,115
+2009,Turkey,Stateless,7,10,,,,,,17
+2009,Turkey,Yemen,1,2,,,,,,3
+2010,Turkey,Afghanistan,1491,1956,,,,,,3447
+2010,Turkey,Angola,1,1,,,,,,2
+2010,Turkey,Azerbaijan,,1,,,,,,1
+2010,Turkey,Burkina Faso,,1,,,,,,1
+2010,Turkey,Bangladesh,,14,,,,,,14
+2010,Turkey,China,5,46,,,,,,51
+2010,Turkey,Côte d'Ivoire,3,7,,,,,,10
+2010,Turkey,Cameroon,,9,,,,,,9
+2010,Turkey,Dem. Rep. of the Congo,12,60,,,,,,72
+2010,Turkey,Congo,,2,,,,,,2
+2010,Turkey,Cuba,1,0,,,,,,1
+2010,Turkey,Algeria,1,8,,,,,,9
+2010,Turkey,Egypt,6,4,,,,,,10
+2010,Turkey,Eritrea,50,37,,,,,,87
+2010,Turkey,Western Sahara,,1,,,,,,1
+2010,Turkey,Ethiopia,21,38,,,,,,59
+2010,Turkey,Ghana,,1,,,,,,1
+2010,Turkey,Guinea,1,26,,,,,,27
+2010,Turkey,Gambia,,1,,,,,,1
+2010,Turkey,Guatemala,,1,,,,,,1
+2010,Turkey,India,,3,,,,,,3
+2010,Turkey,Iran (Islamic Rep. of),1911,2706,,,,,,4617
+2010,Turkey,Iraq,5277,600,,,,,,5877
+2010,Turkey,Israel,,2,,,,,,2
+2010,Turkey,Jordan,4,7,,,,,,11
+2010,Turkey,Kazakhstan,,5,,,,,,5
+2010,Turkey,Kyrgyzstan,,245,,,,,,245
+2010,Turkey,Kuwait,,3,,,,,,3
+2010,Turkey,Lebanon,1,4,,,,,,5
+2010,Turkey,Liberia,4,1,,,,,,5
+2010,Turkey,Libya,,3,,,,,,3
+2010,Turkey,Sri Lanka,30,14,,,,,,44
+2010,Turkey,Morocco,6,19,,,,,,25
+2010,Turkey,Myanmar,,15,,,,,,15
+2010,Turkey,Mongolia,,1,,,,,,1
+2010,Turkey,Mauritania,,1,,,,,,1
+2010,Turkey,Nigeria,4,13,,,,,,17
+2010,Turkey,Nepal,,2,,,,,,2
+2010,Turkey,Pakistan,,46,,,,,,46
+2010,Turkey,Philippines,1,4,,,,,,5
+2010,Turkey,Palestinian,64,78,,,,,,142
+2010,Turkey,Russian Federation,5,5,,,,,306,316
+2010,Turkey,Rwanda,1,8,,,,,,9
+2010,Turkey,Saudi Arabia,1,0,,,,,,1
+2010,Turkey,Sudan,130,76,,,,,,206
+2010,Turkey,Senegal,,5,,,,,,5
+2010,Turkey,Sierra Leone,,11,,,,,,11
+2010,Turkey,Somalia,932,335,,,,,,1267
+2010,Turkey,Syrian Arab Rep.,9,65,,,,,,74
+2010,Turkey,Togo,1,2,,,,,,3
+2010,Turkey,Tajikistan,1,47,,,,,,48
+2010,Turkey,Turkmenistan,2,8,,,,,,10
+2010,Turkey,Tunisia,3,3,,,,,,6
+2010,Turkey,Turkey,,,,,,780,,780
+2010,Turkey,United Rep. of Tanzania,,4,,,,,,4
+2010,Turkey,Uganda,,1,,,,,,1
+2010,Turkey,Uzbekistan,45,138,,,,,,183
+2010,Turkey,Stateless,6,21,,,,,,27
+2010,Turkey,Yemen,2,0,,,,,,2
+2011,Turkey,Afghanistan,2682,2395,,,,,,5077
+2011,Turkey,Angola,1,2,,,,,,3
+2011,Turkey,Azerbaijan,,3,,,,,,3
+2011,Turkey,Benin,,1,,,,,,1
+2011,Turkey,Burkina Faso,,2,,,,,,2
+2011,Turkey,Bangladesh,,11,,,,,,11
+2011,Turkey,Central African Rep.,,2,,,,,,2
+2011,Turkey,China,5,57,,,,,,62
+2011,Turkey,Côte d'Ivoire,8,35,,,,,,43
+2011,Turkey,Cameroon,6,22,,,,,,28
+2011,Turkey,Dem. Rep. of the Congo,38,50,,,,,,88
+2011,Turkey,Congo,1,2,,,,,,3
+2011,Turkey,Cuba,1,,,,,,,1
+2011,Turkey,Djibouti,,2,,,,,,2
+2011,Turkey,Algeria,2,10,,,,,,12
+2011,Turkey,Egypt,14,7,,,,,,21
+2011,Turkey,Eritrea,57,22,,,,,,79
+2011,Turkey,Ethiopia,51,23,,,,,,74
+2011,Turkey,Ghana,,6,,,,,,6
+2011,Turkey,Guinea,7,13,,,,,,20
+2011,Turkey,Guatemala,,1,,,,,,1
+2011,Turkey,India,,3,,,,,,3
+2011,Turkey,Iran (Islamic Rep. of),2993,2613,,,,,,5606
+2011,Turkey,Iraq,7071,3678,215,,,,,10964
+2011,Turkey,Israel,,3,,,,,,3
+2011,Turkey,Jordan,4,9,,,,,,13
+2011,Turkey,Kazakhstan,,21,,,,,,21
+2011,Turkey,Kenya,,5,,,,,,5
+2011,Turkey,Kyrgyzstan,,305,,,,,,305
+2011,Turkey,Kuwait,,4,,,,,,4
+2011,Turkey,Lebanon,2,10,,,,,,12
+2011,Turkey,Liberia,4,3,,,,,,7
+2011,Turkey,Libya,,20,,,,,,20
+2011,Turkey,Sri Lanka,20,8,,,,,,28
+2011,Turkey,Morocco,12,17,,,,,,29
+2011,Turkey,Mali,,2,,,,,,2
+2011,Turkey,Myanmar,,11,,,,,,11
+2011,Turkey,Mauritania,3,1,,,,,,4
+2011,Turkey,Nigeria,4,18,,,,,,22
+2011,Turkey,Nepal,,2,,,,,,2
+2011,Turkey,Pakistan,14,26,,,,,,40
+2011,Turkey,Philippines,1,3,,,,,,4
+2011,Turkey,Palestinian,90,139,,,,,,229
+2011,Turkey,Russian Federation,5,5,,,,,306,316
+2011,Turkey,Rwanda,1,11,,,,,,12
+2011,Turkey,Saudi Arabia,1,2,,,,,,3
+2011,Turkey,Sudan,157,55,,,,,,212
+2011,Turkey,Senegal,,10,,,,,,10
+2011,Turkey,Sierra Leone,,11,,,,,,11
+2011,Turkey,Somalia,1105,646,,,,,,1751
+2011,Turkey,Syrian Arab Rep.,19,205,,,,,9270,9494
+2011,Turkey,Chad,1,1,,,,,,2
+2011,Turkey,Togo,1,4,,,,,,5
+2011,Turkey,Tibetan,,1,,,,,,1
+2011,Turkey,Tajikistan,,52,,,,,,52
+2011,Turkey,Turkmenistan,2,16,,,,,,18
+2011,Turkey,Tunisia,5,5,,,,,,10
+2011,Turkey,Turkey,,,,,,780,,780
+2011,Turkey,Uganda,4,44,,,,,,48
+2011,Turkey,Uzbekistan,46,236,,,,,,282
+2011,Turkey,Stateless,20,29,,,,,,49
+2011,Turkey,Yemen,7,63,,,,,,70
+2011,Turkey,South Africa,,1,,,,,,1
+2012,Turkey,Afghanistan,3517,14587,,,,,,18104
+2012,Turkey,Angola,,4,,,,,,4
+2012,Turkey,United Arab Emirates,1,0,,,,,,1
+2012,Turkey,Azerbaijan,3,0,,,,,,3
+2012,Turkey,Burundi,,1,,,,,,1
+2012,Turkey,Benin,,1,,,,,,1
+2012,Turkey,Bangladesh,,21,,,,,,21
+2012,Turkey,Bolivia (Plurinational State of),,1,,,,,,1
+2012,Turkey,Central African Rep.,1,1,,,,,,2
+2012,Turkey,China,5,45,,,,,,50
+2012,Turkey,Côte d'Ivoire,13,32,,,,,,45
+2012,Turkey,Cameroon,6,35,,,,,,41
+2012,Turkey,Dem. Rep. of the Congo,35,80,,,,,,115
+2012,Turkey,Congo,2,4,,,,,,6
+2012,Turkey,Cuba,1,,,,,,,1
+2012,Turkey,Djibouti,,1,,,,,,1
+2012,Turkey,Algeria,2,3,,,,,,5
+2012,Turkey,Egypt,13,21,,,,,,34
+2012,Turkey,Eritrea,49,32,,,,,,81
+2012,Turkey,Ethiopia,74,41,,,,,,115
+2012,Turkey,Ghana,,5,,,,,,5
+2012,Turkey,Guinea,8,12,,,,,,20
+2012,Turkey,India,,3,,,,,,3
+2012,Turkey,Iran (Islamic Rep. of),3040,3663,,,,,,6703
+2012,Turkey,Iraq,9478,3431,215,,,,,13124
+2012,Turkey,Israel,,3,,,,,,3
+2012,Turkey,Jordan,8,13,,,,,,21
+2012,Turkey,Kazakhstan,1,25,,,,,,26
+2012,Turkey,Kenya,,4,,,,,,4
+2012,Turkey,Kyrgyzstan,163,128,,,,,,291
+2012,Turkey,Kuwait,,1,,,,,,1
+2012,Turkey,Lebanon,6,10,,,,,,16
+2012,Turkey,Liberia,4,3,,,,,,7
+2012,Turkey,Libya,,17,,,,,,17
+2012,Turkey,Sri Lanka,19,3,,,,,,22
+2012,Turkey,Morocco,9,25,,,,,,34
+2012,Turkey,Mali,,3,,,,,,3
+2012,Turkey,Myanmar,,9,,,,,,9
+2012,Turkey,Mongolia,,2,,,,,,2
+2012,Turkey,Mauritania,3,5,,,,,,8
+2012,Turkey,Nigeria,3,37,,,,,,40
+2012,Turkey,Nepal,,1,,,,,,1
+2012,Turkey,Oman,,1,,,,,,1
+2012,Turkey,Pakistan,19,35,,,,,,54
+2012,Turkey,Philippines,1,1,,,,,,2
+2012,Turkey,Palestinian,146,276,,,,,,422
+2012,Turkey,Russian Federation,5,5,,,,,306,316
+2012,Turkey,Rwanda,1,2,,,,,,3
+2012,Turkey,Saudi Arabia,3,4,,,,,,7
+2012,Turkey,Sudan,179,34,,,,,,213
+2012,Turkey,Senegal,,36,,,,,,36
+2012,Turkey,Sierra Leone,2,10,,,,,,12
+2012,Turkey,Somalia,1669,389,,,,,,2058
+2012,Turkey,Syrian Arab Rep.,248466,200,68573,,,,,317239
+2012,Turkey,Chad,1,1,,,,,,2
+2012,Turkey,Togo,3,0,,,,,,3
+2012,Turkey,Tibetan,,1,,,,,,1
+2012,Turkey,Tajikistan,,47,,,,,,47
+2012,Turkey,Turkmenistan,5,45,,,,,,50
+2012,Turkey,Tunisia,4,7,,,,,,11
+2012,Turkey,Turkey,,,,,,780,,780
+2012,Turkey,United Rep. of Tanzania,,1,,,,,,1
+2012,Turkey,Uganda,4,23,,,,,,27
+2012,Turkey,Uzbekistan,56,221,,,,,,277
+2012,Turkey,Stateless,18,35,,,,,,53
+2012,Turkey,Yemen,17,109,,,,,,126
+2013,Turkey,Afghanistan,3926,22330,,,,,,26256
+2013,Turkey,Angola,,4,,,,,,4
+2013,Turkey,United Arab Emirates,1,3,,,,,,4
+2013,Turkey,Azerbaijan,2,,,,,,,2
+2013,Turkey,Burundi,,3,,,,,,3
+2013,Turkey,Benin,,1,,,,,,1
+2013,Turkey,Burkina Faso,,1,,,,,,1
+2013,Turkey,Bangladesh,,166,,,,,,166
+2013,Turkey,Bahrain,,1,,,,,,1
+2013,Turkey,Central African Rep.,1,19,,,,,,20
+2013,Turkey,China,16,29,,,,,,45
+2013,Turkey,Côte d'Ivoire,16,79,,,,,,95
+2013,Turkey,Cameroon,7,156,,,,,,163
+2013,Turkey,Dem. Rep. of the Congo,45,154,,,,,,199
+2013,Turkey,Congo,2,46,,,,,,48
+2013,Turkey,Cuba,1,,,,,,,1
+2013,Turkey,Djibouti,,2,,,,,,2
+2013,Turkey,Algeria,2,16,,,,,,18
+2013,Turkey,Egypt,17,96,,,,,,113
+2013,Turkey,Eritrea,47,94,,,,,,141
+2013,Turkey,Ethiopia,93,105,,,,,,198
+2013,Turkey,Gabon,,3,,,,,,3
+2013,Turkey,Ghana,,37,,,,,,37
+2013,Turkey,Guinea,6,15,,,,,,21
+2013,Turkey,Gambia,,4,,,,,,4
+2013,Turkey,Guinea-Bissau,,1,,,,,,1
+2013,Turkey,India,,7,,,,,,7
+2013,Turkey,Iran (Islamic Rep. of),3321,6249,,,,,,9570
+2013,Turkey,Iraq,13467,19065,125,,,,,32657
+2013,Turkey,Israel,,1,,,,,,1
+2013,Turkey,Jordan,18,23,,,,,,41
+2013,Turkey,Kazakhstan,,20,,,,,,20
+2013,Turkey,Kenya,,6,,,,,,6
+2013,Turkey,Kyrgyzstan,211,49,,,,,,260
+2013,Turkey,Cambodia,,1,,,,,,1
+2013,Turkey,Kuwait,,1,,,,,,1
+2013,Turkey,Lebanon,4,24,,,,,,28
+2013,Turkey,Liberia,5,2,,,,,,7
+2013,Turkey,Libya,,31,,,,,,31
+2013,Turkey,Sri Lanka,15,12,,,,,,27
+2013,Turkey,Morocco,11,60,,,,,,71
+2013,Turkey,Mali,,82,,,,,,82
+2013,Turkey,Myanmar,,16,,,,,,16
+2013,Turkey,Mongolia,,36,,,,,,36
+2013,Turkey,Mauritania,5,4,,,,,,9
+2013,Turkey,Niger,,9,,,,,,9
+2013,Turkey,Nigeria,3,104,,,,,,107
+2013,Turkey,Nepal,,11,,,,,,11
+2013,Turkey,Pakistan,26,539,,,,,,565
+2013,Turkey,Philippines,1,7,,,,,,8
+2013,Turkey,Dem. People's Rep. of Korea,,1,,,,,,1
+2013,Turkey,Palestinian,588,465,,,,,,1053
+2013,Turkey,Russian Federation,5,0,,,,,306,311
+2013,Turkey,Rwanda,1,3,,,,,,4
+2013,Turkey,Saudi Arabia,5,3,,,,,,8
+2013,Turkey,Sudan,174,203,,,,,,377
+2013,Turkey,Senegal,1,34,,,,,,35
+2013,Turkey,Solomon Islands,,1,,,,,,1
+2013,Turkey,Sierra Leone,3,13,,,,,,16
+2013,Turkey,Somalia,2153,879,,,,,,3032
+2013,Turkey,Syrian Arab Rep.,585601,110,140756,,,,,726467
+2013,Turkey,Chad,1,2,,,,,,3
+2013,Turkey,Togo,3,8,,,,,,11
+2013,Turkey,Tajikistan,12,57,,,,,,69
+2013,Turkey,Turkmenistan,1,101,,,,,,102
+2013,Turkey,Tunisia,8,10,,,,,,18
+2013,Turkey,Turkey,,,,,,780,,780
+2013,Turkey,United Rep. of Tanzania,,3,,,,,,3
+2013,Turkey,Uganda,7,222,,,,,,229
+2013,Turkey,Uzbekistan,57,338,,,,,,395
+2013,Turkey,Stateless,15,22,,,,,,37
+2013,Turkey,Yemen,34,265,,,,,,299
+2013,Turkey,South Africa,,1,,,,,,1
+2013,Turkey,Zimbabwe,,2,,,,,,2
+2014,Turkey,Afghanistan,4188,33108,,,,,,37296
+2014,Turkey,Angola,,12,,,,,,12
+2014,Turkey,United Arab Emirates,*,9,,,,,,10
+2014,Turkey,Armenia,*,*,,,,,,*
+2014,Turkey,Azerbaijan,5,*,,,,,,5
+2014,Turkey,Burundi,*,*,,,,,,5
+2014,Turkey,Benin,,*,,,,,,*
+2014,Turkey,Burkina Faso,,*,,,,,,*
+2014,Turkey,Bangladesh,*,213,,,,,,214
+2014,Turkey,Bahrain,,*,,,,,,*
+2014,Turkey,Central African Rep.,*,16,,,,,,17
+2014,Turkey,China,16,60,,,,,,76
+2014,Turkey,Côte d'Ivoire,23,55,,,,,,78
+2014,Turkey,Cameroon,9,82,,,,,,91
+2014,Turkey,Dem. Rep. of the Congo,62,240,,,,,,302
+2014,Turkey,Congo,10,261,,,,,,271
+2014,Turkey,Cuba,*,,,,,,,*
+2014,Turkey,Djibouti,,5,,,,,,5
+2014,Turkey,Algeria,*,15,,,,,,19
+2014,Turkey,Egypt,22,123,,,,,,145
+2014,Turkey,Eritrea,59,142,,,,,,201
+2014,Turkey,Ethiopia,98,147,,,,,,245
+2014,Turkey,Gabon,,*,,,,,,*
+2014,Turkey,Ghana,,27,,,,,,27
+2014,Turkey,Guinea,8,15,,,,,,23
+2014,Turkey,Gambia,,5,,,,,,5
+2014,Turkey,Indonesia,,*,,,,,,*
+2014,Turkey,India,,11,,,,,,11
+2014,Turkey,Iran (Islamic Rep. of),3388,11441,11,,,,,14840
+2014,Turkey,Iraq,17542,54520,119,,,,,72181
+2014,Turkey,Israel,,*,,,,,,*
+2014,Turkey,Jordan,27,36,,,,,,63
+2014,Turkey,Kazakhstan,,43,,,,,,43
+2014,Turkey,Kenya,*,14,,,,,,15
+2014,Turkey,Kyrgyzstan,204,63,*,,,,,269
+2014,Turkey,Kuwait,,*,,,,,,*
+2014,Turkey,Lebanon,7,33,,,,,,40
+2014,Turkey,Liberia,6,*,,,,,,9
+2014,Turkey,Libya,10,41,,,,,,51
+2014,Turkey,Sri Lanka,15,16,,,,,,31
+2014,Turkey,Morocco,25,68,,,,,,93
+2014,Turkey,Mali,6,19,,,,,,25
+2014,Turkey,Myanmar,,20,,,,,,20
+2014,Turkey,Mongolia,,76,,,,,,76
+2014,Turkey,Mauritania,6,*,,,,,,10
+2014,Turkey,Niger,,*,,,,,,*
+2014,Turkey,Nigeria,6,118,,,,,,124
+2014,Turkey,Nepal,,14,,,,,,14
+2014,Turkey,Pakistan,28,1827,,,,,,1855
+2014,Turkey,Philippines,*,8,,,,,,9
+2014,Turkey,Palestinian,849,446,,,,,,1295
+2014,Turkey,Russian Federation,5,,,,,,306,311
+2014,Turkey,Rwanda,*,9,,,,,,10
+2014,Turkey,Saudi Arabia,*,7,,,,,,9
+2014,Turkey,Sudan,218,192,,,,,,410
+2014,Turkey,Senegal,*,35,,,,,,37
+2014,Turkey,Sierra Leone,*,24,,,,,,28
+2014,Turkey,Somalia,2389,1020,*,,,,,3410
+2014,Turkey,Syrian Arab Rep.,1557899,250,,,,,,1558149
+2014,Turkey,Chad,*,*,,,,,,*
+2014,Turkey,Togo,*,*,,,,,,6
+2014,Turkey,Tajikistan,17,76,,,,,,93
+2014,Turkey,Turkmenistan,*,200,,,,,,202
+2014,Turkey,Tunisia,9,11,,,,,,20
+2014,Turkey,Turkey,,,,,,780,,780
+2014,Turkey,United Rep. of Tanzania,,*,,,,,,*
+2014,Turkey,Uganda,23,429,,,,,,452
+2014,Turkey,Uzbekistan,65,408,,,,,,473
+2014,Turkey,Stateless,61,26,,,,,,87
+2014,Turkey,Yemen,40,305,,,,,,345
+2014,Turkey,Zimbabwe,,*,,,,,,*
