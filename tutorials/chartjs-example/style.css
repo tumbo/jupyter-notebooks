@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5 {
+	font-family: 'Questrial', sans-serif;
+}
+
+.graph-wrapper {	
+	width: 600px;
+	height: 400px;
+	border: 1px solid #ccc;
+}
