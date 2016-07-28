@@ -1,9 +1,19 @@
 !function(global) {	
 
 	console.log('app.js fired!');
+	console.log('require version', requirejs.version);
+
+	requirejs.config({
+		paths: {"d3": "https://d3js.org/d3.v4.min"}
+                });
+
+ 	define(["d3"], function(a) {
+ 		console.log(a.version);
+ 	});
 	
 	global.canvasObjects = [];
 	
+	// is it a race condition? answer... no
 	setTimeout(function() {
 		console.log(d3);
 	}, 2000);
